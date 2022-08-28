@@ -22,3 +22,6 @@ sa
 sa
 as
 >>>>>>> Stashed changes
+
+
+Modyfikacja 2
