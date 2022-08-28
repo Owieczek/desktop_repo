@@ -1,6 +1,7 @@
 cxzv21
 
 cascsa
+<<<<<<< Updated upstream
 assaas
 as
 
@@ -10,3 +11,14 @@ v
 cx
 c
 as
+=======
+ as
+a
+ssa
+sa
+as
+sa
+sa
+sa
+as
+>>>>>>> Stashed changes
