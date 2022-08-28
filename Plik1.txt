@@ -7,3 +7,4 @@ asa
 sas
 as
 as
+modyfikacja 1
