@@ -23,5 +23,9 @@ sa
 as
 >>>>>>> Stashed changes
 
+<<<<<<< Updated upstream
 
 Modyfikacja 2
+=======
+mod3
+>>>>>>> Stashed changes
